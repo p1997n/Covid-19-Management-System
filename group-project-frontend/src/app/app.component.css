@@ -1,0 +1,31 @@
+.title {
+    font-weight: bold;
+    font-size: 2em;
+  }
+.subtitle{
+    font-size: 0.9em;
+    margin-top: -0.4em;
+  }
+
+.title1 {
+  font-weight: bold;
+  font-size: 1.8em;
+  margin-bottom: 0.9em;
+  
+}
+.title2{
+  font-weight: bold;
+  font-size: 0.8em;
+  margin-bottom: 0.5em;
+}
+.title3{
+  
+  font-size: 0.8em;
+  margin-top: 0.9em;
+}
+.subtitle1{
+  font-size: 0.8em;
+  margin-top: 0.9em;
+  margin-bottom: -0.9em;
+
+}
